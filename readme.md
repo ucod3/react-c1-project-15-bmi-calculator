@@ -1,6 +1,6 @@
-# Project 15: BMI Calculator (C1 SoftDev Program)
+# Project 15: BMI Calculator (Correlation One - Amazon Software Development Cohort 1)
 
-This project is a part of the C1 SoftDev program, specifically Project 15. The main goal of this project was to showcase our understanding of the various frameworks we were introduced to during the course.
+This project is a part of the [Correlation One](https://www.correlation-one.com/) - [Amazon Software Development](https://www.correlation-one.com/) program, specifically Project 15. The main goal of this project was to showcase our understanding of the various frameworks we were introduced to during the course.
 
 ## Project Overview
 
@@ -33,7 +33,7 @@ To get started with this project, follow these steps:
 3. Start the development server: `npm run dev`
 4. Check the terminal for the port number (e.g., <http://localhost:{portnumber}>) and open your browser to access the project locally.
 
-Alternatively, you can view the project on GitHub Pages: [Project Live Link](https://ucod3.github.io/interactive-rating-component/)
+Alternatively, you can view the project on GitHub Pages: [Project Live Link](https://ucod3.github.io/react-c1-project-15-bmi-calculator/)
 
 ## Contributing
 
@@ -45,4 +45,4 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-A special thanks to the C1 SoftDev program for providing the opportunity and guidance to work on this project.
+A special thanks to the [Correlation One's](https://www.correlation-one.com/) - [Amazon Software Development](https://www.correlation-one.com/) for providing the opportunity and guidance to work on this project.
