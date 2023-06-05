@@ -37,7 +37,7 @@ Alternatively, you can view the project on GitHub Pages: [Project Live Link](htt
 
 ## Contributing
 
-This project is a part of the C1 SoftDev program and is not open for contribution.
+This project is a part of the Correlation One's - Amazon Software Development (Cohort 1) program and is not open for contribution.
 
 ## License
 
